@@ -1,0 +1,41 @@
+ProductID,Product,Category,Subcategory,UnitPrice,Cost
+P001,Almonds 250g,Nuts,Roasted,85,55
+P002,Pistachio 200g,Nuts,Salted,120,75
+P003,Mixed Nuts 300g,Nuts,Mix,150,95
+P004,Turkish Coffee 200g,Coffee,Ground,110,60
+P005,Instant Coffee 200g,Coffee,Instant,95,45
+P006,Olive Oil 500ml,Oils,Olive,220,140
+P007,Sunflower Oil 1L,Oils,Vegetable,180,100
+P008,Honey Natural 500g,Honey,Pure,200,120
+P009,Sugar 1kg,Grocery,Baking,40,22
+P010,Rice 5kg,Grocery,Staples,180,110
+P011,Pasta 500g,Grocery,Pasta,35,18
+P012,Tomato Paste 400g,Grocery,Canned,28,15
+P013,Cheddar Cheese 200g,Dairy,Cheese,95,55
+P014,Milk 1L,Dairy,Milk,45,25
+P015,Orange Juice 1L,Beverages,Juice,60,35
+P016,Detergent 2kg,Household,Cleaning,120,70
+P017,Salt 500g,Grocery,Staples,12,6
+P018,Black Pepper 50g,Spices,Pepper,55,30
+P019,Cinnamon 50g,Spices,Spice,48,28
+P020,Dates Medjool 500g,Dry Fruits,Dates,140,85
+P021,Walnuts 200g,Nuts,Roasted,95,60
+P022,Cashews 200g,Nuts,Roasted,110,65
+P023,Tea Bags 100pcs,Beverages,Tea,90,50
+P024,Biscuits 200g,Snacks,Biscuit,30,16
+P025,Chips 150g,Snacks,Chips,25,13
+P026,Chocolate 100g,Confectionery,Chocolate,35,20
+P027,Peanut Butter 350g,Grocery,Spread,95,55
+P028,Mayonnaise 400g,Grocery,Condiment,65,38
+P029,Vinegar 500ml,Grocery,Condiment,28,16
+P030,Yogurt 170g,Dairy,Yogurt,18,10
+P031,Bread 1pc,Bakery,Bread,8,4
+P032,Frozen Vegetables 400g,Frozen,Veg,55,32
+P033,Garlic Powder 100g,Spices,Powder,40,22
+P034,Ginger Powder 100g,Spices,Powder,45,25
+P035,Tahini 400g,Grocery,Condiment,120,72
+P036,Olives 300g,Grocery,Olives,75,40
+P037,Protein Bar 50g,Health,Protein,40,22
+P038,Energy Drink 330ml,Beverages,Energy,30,18
+P039,Cooking Spray 200ml,Household,Cooking,65,36
+P040,Granola 400g,Breakfast,Cereal,95,55
